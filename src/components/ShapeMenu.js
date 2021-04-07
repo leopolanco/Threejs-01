@@ -2,7 +2,7 @@ import React from 'react'
 
 const ShapeMenu = () => {
     return (
-        <div>
+        <div className='shape__menu'>
             ShapeMenu
         </div>
     )
